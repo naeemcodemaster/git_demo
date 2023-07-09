@@ -3,3 +3,4 @@ this is text file 4.
 =======
 this is text file 4 edited by dev_A.
 >>>>>>> dev_A
+this is text file 4 edite by dev_B.
